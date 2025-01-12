@@ -3,15 +3,25 @@
 
 body {
     font-family: "Lato", serif;
-    background-color: #FBF6D9;
 }
 
+
+/* --- Navbar  */
 .logo {
     font-family: "Rampart One", serif;
     color: darkgreen;
 }
 
 .navbar-logo {
-    width: 2.8rem;
+    width: 2.5rem;
     height: auto;
+}
+
+nav,
+footer {
+    background-color: #86BB2A;
+}
+
+.dummy {
+    height: 45vh;
 }
